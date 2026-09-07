@@ -49,12 +49,6 @@ src/
 └── index.css      # tema Tailwind (cores, fontes) importado dos estilos originais do projeto
 ```
 
-## Como usar
-
-### Repositório
-
-[github.com/MatheusC0625/sprint3-nuva-react](https://github.com/MatheusC0625/sprint3-nuva-react)
-
 ### Vídeo de demonstração
 
 [Link do vídeo no YouTube](#)
@@ -92,8 +86,4 @@ npm run preview
 ## Integrantes
 
 - **Matheus Costa** — RM 573146 — Turma 1TDSPV
-  [GitHub](https://github.com/MatheusC0625) · [LinkedIn](https://www.linkedin.com/in/matheusrodrigues06/)
-
-## Contato
-
-- stsycosta@gmail.com
+  [GitHub](https://github.com/MatheusC0625)
