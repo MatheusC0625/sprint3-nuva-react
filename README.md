@@ -51,7 +51,7 @@ src/
 
 ### Vídeo de demonstração
 
-[Link do vídeo no YouTube](#)
+[Link do vídeo no YouTube](https://www.youtube.com/watch?v=MDmqCaZMIq8)
 
 ### Instalação e execução
 
