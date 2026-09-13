@@ -1,10 +1,19 @@
 # NUVA — Guardiões da Luz
 
+![React](https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4-06b6d4?logo=tailwindcss&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7-ec5990?logo=reacthookform&logoColor=white)
+
 Front-end da NUVA, plataforma de gamificação do Challenge SoulUp que transforma ações sustentáveis (missões de
 energia, água, floresta e resíduos) em SoulCoins, convertidos em crédito real na conta de luz.
 
 Este repositório é a **Sprint 03** da disciplina Front-End Design Engineering (FIAP), que migra o site estático
 das sprints anteriores (HTML + CSS + JS puro) para uma Single Page Application em **React + Vite + TypeScript**.
+
+**Repositório:** https://github.com/MatheusC0625/sprint3-nuva-react
+**Vídeo de demonstração:** https://www.youtube.com/watch?v=MDmqCaZMIq8
 
 ## Nota sobre continuidade solo do projeto
 
@@ -85,5 +94,13 @@ npm run preview
 
 ## Integrantes
 
-- **Matheus Costa** — RM 573146 — Turma 1TDSPV
-  [GitHub](https://github.com/MatheusC0625)
+<img src="https://github.com/MatheusC0625.png" alt="Foto de Matheus Costa" width="100" height="100" style="border-radius: 50%;" />
+
+**Matheus Costa** — RM 573146 — Turma 1TDSPV
+[GitHub](https://github.com/MatheusC0625) · [LinkedIn](https://www.linkedin.com/in/matheusrodrigues06/)
+
+## Contato
+
+- **E-mail:** stsycosta@gmail.com
+- **GitHub:** [github.com/MatheusC0625](https://github.com/MatheusC0625)
+- **LinkedIn:** [linkedin.com/in/matheusrodrigues06](https://www.linkedin.com/in/matheusrodrigues06/)
